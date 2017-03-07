@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OnlineSariSariStore/OnlineSariSariStore.iml" filepath="$PROJECT_DIR$/OnlineSariSariStore/OnlineSariSariStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osss-tb.iml" filepath="$PROJECT_DIR$/osss-tb.iml" />
+    </modules>
+  </component>
+</project>

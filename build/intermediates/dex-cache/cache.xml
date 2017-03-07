@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e23a730b73386295e3a80af559f938a78e36dd7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_a2ba83a0be76d26ca2db3672571fa942946e1e89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_27b04d1dab491661f3941276b17d150ebe00066f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_196d4930badd9d4e824c718c425350f5611b4962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_46bd2d9293ffafdd969d356d3d39c2a018c7048d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_521da7b1ab3f0fac2b46a9f3449441019a8b8e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_9b191958b68efe1c7e9c0ad9deb46bd3c970a8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e8f55b2eb3671494586be74cdda3402960f3500f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.kaopiz/kprogresshud/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="303f3c19296009125297a0cf7971c55c55ec0d6f">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.kaopiz-kprogresshud-1.0.5_6e4f2b70d7fe59f054d49f1cf5ccbc4ad47ecd96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="422ec67cce560afa49f0bf10860f7672925fcbe9">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d2cfbd64d441f33e3e65dde6192b4fdaaff7454c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_09d60f1673a170c8a28121f9a4557c0d365c208d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="488c087bcc5057b376042693128a294a7514460a">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_186ef660c063958433b44e7fb2592d781db5462e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_b5380da3162623576c0e7ccedc166937f9030d5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_f5ac820e175497d294ed1e1b10221f742fb3e4ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_c56fcf8e840582ee9b8a72a637739fb1100b8852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_38478dfbae2bef1cce257e2e94058248aa0af987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_d3029774e65100d7d54caafedfb4ad914429235c/classes.dex" />
+    </item>
+
+</items>
