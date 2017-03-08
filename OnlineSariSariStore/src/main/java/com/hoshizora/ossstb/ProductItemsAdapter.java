@@ -53,7 +53,7 @@ public class ProductItemsAdapter extends RecyclerView.Adapter<ProductItemsAdapte
         holder.price.setText(String.valueOf(productItem.getPrice()));
         holder.imageView.setScaleType(ImageView.ScaleType.CENTER_CROP);
         if(!productItem.getImageurl().isEmpty()){
-            final String fullUrl = currentContext.getString(R.string.host) + productItem.getImageurl();
+            final String fullUrl = productItem.getImageurl();
             Log.e("URL IS: ", fullUrl);
             Picasso.with(currentContext).load(fullUrl).into(holder.imageView, new com.squareup.picasso.Callback() {
                 @Override

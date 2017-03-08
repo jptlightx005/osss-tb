@@ -2,139 +2,121 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\b5e2d47fbd5669e9851dae0dc5e26e4372a8ee54\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1288736febf28e50b65ffdae9e9e62ae23cd6a97\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\bf900cb03fa4b7427bd6a4dfdd9a45b9225ab253\output\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_639d6ba297035fab7de4576ce7e09bb5932b0141\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_1fd2fdcb1abf4ed288d09803064c30625b7478a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2b239f40d9fdec7fb06978afdbccd7f2fbba96b9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_e56a8f94f7c97c2ab52b655ef74628af1614f9c9\classes.dex" />
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/picasso-2.5.2_46bd2d9293ffafdd969d356d3d39c2a018c7048d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_8577ded8e78bea9dfaa8fd1b8cbc49a4630c7776\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\887fb231773569b072e9be2433637704a18dd2d2\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="303f3c19296009125297a0cf7971c55c55ec0d6f">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56d4d09550f7c1909a2234ed826d9201b276bbfb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\3df77d34214c9c24fb3432fb60b410efc011ccaa\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2be8a4f55644318107762fbf814cc094a6924a2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="456fc8e8353bccb06414ca47ed6f4bf46d963127">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_abc5ca8536eedd2ea5d2b28e859b957e6ea34c73\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\8878303bbe79f8bb4489a491c1c42b109b391018\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05d3c582895faf63be2266d06b0ae64ffbc0f173\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_091230db78ecf16ec643a04f1ce30497f4658c4a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_023614270f76dfdc24345688de6ee17be93d7beb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\ed97c816bc65040d74b93ff662ed58ac1cb31ad9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a55dfbbe0207331868fc982ea3897e4dd2fcaa16\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\bf900cb03fa4b7427bd6a4dfdd9a45b9225ab253\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef99fb6f333f1a3fddb9941b3faa26d6f47a7699\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Hoshizora\.android\build-cache\34ea284e5d9334478e2ced667a6908a83ec015e2\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/69d4f0cdc660d20dc6fab4e7b6c34e8f3af83c92/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\Hoshizora\Documents\osss-tb\OnlineSariSariStore\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e11bb804fc61b9eddb1f1f872295c064d25a7ff\classes.dex" />
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/classes_e39fa6b3909bb6e184ddf124fc23e4e08b8971b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/8292f199775e4ead2ab3eaa17efd343850f99e68/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a62a7b0bafa112b434abac558261a7b9f4268eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/42725391083e66c1d841163ce39bd976c2a664fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/classes_3e58c79eff1647a0c836a5fc5c7966b15aa1c4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_f5ac820e175497d294ed1e1b10221f742fb3e4ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/26fb11323aa95c7f508c9d5f25f2426756050cdb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/classes_68197a75effe0a1067770d93093b34199c65efbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/96a9b8af0b5eda3d10d558cf763f4023a8f7a471/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="303f3c19296009125297a0cf7971c55c55ec0d6f">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/classes_37247ee393412138df2ef32db0e00e176344d5d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_e8f55b2eb3671494586be74cdda3402960f3500f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/430c2bb2e2091b27b7dc5ba441db74299e4781f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/classes_10ec01a809515e8220ef9856c58e1b2c09b656be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/gson-2.8.0_b5380da3162623576c0e7ccedc166937f9030d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/9339554adc532723afed303923084c023db22b12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/classes_130d3828b725fc1e87467d301b0e8cd59c18e7b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/httpclient-4.3.6_38478dfbae2bef1cce257e2e94058248aa0af987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JLTeruel/.android/build-cache/8292f199775e4ead2ab3eaa17efd343850f99e68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/JLTeruel/Documents/osss-tb/OnlineSariSariStore/build/intermediates/pre-dexed/debug/classes_9eba47623510de1e6460fd594fda226f1cc1f19c.jar" />
     </item>
 
 </items>
