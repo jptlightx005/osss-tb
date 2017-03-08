@@ -60,7 +60,8 @@ public class MainActivity extends AppCompatActivity {
         RecyclerView.LayoutManager pLayoutManager = new GridLayoutManager(this, 2, GridLayoutManager.VERTICAL, false);
 //                LinearLayoutManager(getApplicationContext());
         recyclerView.setLayoutManager(pLayoutManager);
-        recyclerView.addItemDecoration(new DividerItemDecoration(this, GridLayoutManager.VERTICAL));
+        recyclerView
+                .addItemDecoration(new DividerItemDecoration(this, GridLayoutManager.VERTICAL));
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(pAdapter);
 
