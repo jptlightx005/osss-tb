@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
 
         AsyncHttpClient client = new AsyncHttpClient();
         RequestParams params = new RequestParams();
+        params.put("api_key", getString(R.string.API_KEY));
         params.put("action", "get_products");
 
         client.get(url, params, new JsonHttpResponseHandler() {
