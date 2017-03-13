@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Sari Sari Store</string>
-    <string name="host">http://192.168.1.41/</string>
+    <string name="host">https://osss-tb.herokuapp.com/</string>
     <string name="products">api/products.php</string>
 </resources>
